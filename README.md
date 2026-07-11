@@ -1,4 +1,4 @@
-p>
+
 
 <h1 align="center">My_Capture 9.3</h1>
 
@@ -23,15 +23,10 @@ p>
 
 ---
 
-## Preview / 软件预览 / プレビュー
-
-> 将软件截图放到下面路径后，GitHub 会自动显示。  
-> Place screenshots in the following paths.  
-> 次のパスにスクリーンショットを配置してください。
-
 ### Main window / 主界面 / メイン画面
 
 <img width="1008" height="789" alt="2026-07-11_15-15-01" src="https://github.com/user-attachments/assets/4df94741-1319-4422-ae51-e93588e28cb0" />
+<img width="1008" height="789" alt="2026-07-11_15-15-26" src="https://github.com/user-attachments/assets/81baf8d1-851a-4ae6-a5a6-35ef3d81b3db" />
 
 
 
