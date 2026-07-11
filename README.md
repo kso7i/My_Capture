@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/My_Capture-logo.png" width="180" alt="My_Capture Logo">
-</p>
+p>
 
 <h1 align="center">My_Capture 9.3</h1>
 
@@ -33,15 +31,11 @@
 
 ### Main window / 主界面 / メイン画面
 
-![My_Capture main window](docs/images/main-window.png)
+<img width="1008" height="789" alt="2026-07-11_15-15-01" src="https://github.com/user-attachments/assets/4df94741-1319-4422-ae51-e93588e28cb0" />
 
-### Capture selector / 截图选择器 / キャプチャ選択画面
 
-![My_Capture selector](docs/images/capture-selector.png)
 
-### System tray / 系统托盘 / システムトレイ
 
-![My_Capture tray menu](docs/images/tray-menu.png)
 
 ---
 
