@@ -27,6 +27,7 @@
 
 <img width="1008" height="789" alt="2026-07-11_15-15-01" src="https://github.com/user-attachments/assets/4df94741-1319-4422-ae51-e93588e28cb0" />
 <img width="1008" height="789" alt="2026-07-11_15-15-26" src="https://github.com/user-attachments/assets/81baf8d1-851a-4ae6-a5a6-35ef3d81b3db" />
+<img width="1008" height="789" alt="2026-07-11_15-15-33" src="https://github.com/user-attachments/assets/cd5273fe-0041-4877-a048-9608a2ab6b12" />
 
 
 
