@@ -1,6 +1,6 @@
 
 
-<h1 align="center">My_Capture 9.3</h1>
+<h1 align="center">Tsin_Capture </h1>
 
 <p align="center">
   A Windows screenshot tool with whole-window and internal-region detection, accurate rounded corners, system tray integration, startup launch, and multilingual UI.<br>
